@@ -6,7 +6,7 @@
 
 1. 创建Issue打上Apply标签
 2. 审核后生成
-3. 审核通过后可通过 https://twfb.org/rss/RSS-Relay_[Issue Number].xml 访问
+3. 审核通过后可通过 `https://twfb.org/rss/RSS-Relay_[Issue Number].xml`访问
 
 
 申请模板(包括,不包括,替换 均支持正则, 参考Python正则)
