@@ -29,4 +29,4 @@
         }
     }
 
-RSS链接: https://twfb.org/rss/RSS-Relay_2.xml
+示例RSS链接: https://twfb.org/rss/RSS-Relay_2.xml
