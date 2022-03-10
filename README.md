@@ -9,6 +9,12 @@
 3. 可通过 `https://twfb.org/rss/RSS-Relay_[Issue Number].xml`访问
 4. 半小时更新一次
 
+# 功能
+- 过滤
+- 排除
+- 替换
+- 翻译
+
 申请模板(包括,不包括,替换 均支持正则, 参考Python正则)
 
     {
