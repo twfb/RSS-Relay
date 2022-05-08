@@ -6,8 +6,7 @@
 
 1. 创建Issue打上Apply标签
 2. 审核后生成
-3. 可通过 `https://twfb.org/rss/RSS-Relay_[Issue Number].xml`访问
-4. 半小时更新一次
+3. 一小时更新一次
 
 # 功能
 - 过滤
